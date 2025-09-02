@@ -1,0 +1,26 @@
+{
+  "name": "dmoney-newman-report-b13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "newman": "^6.2.1",
+    "newman-reporter-htmlextra": "^1.23.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiSHadoW/dmoney-b13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NiSHadoW/dmoney-b13/issues"
+  },
+  "homepage": "https://github.com/NiSHadoW/dmoney-b13#readme"
+}
